@@ -1,0 +1,16 @@
+/* ----------------------------- start variable ----------------------------- */
+:root {
+  --main-color: #ea0f1e;
+  --sec-color: #e45826;
+  --back-cl: #1d1d1d;
+}
+
+/* ------------------------------ End variable ------------------------------ */
+
+/* --------------------------- Start Global rules --------------------------- */
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
